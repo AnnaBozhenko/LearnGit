@@ -35,4 +35,4 @@ def decreasing_list(list_input):
             return inner(list_data, maxim, list_output, index)
     return inner(list_input, maxim, list_output = [], index = 0)
 
-print(decreasing_list(list_data))
+# print(decreasing_list(list_data))
